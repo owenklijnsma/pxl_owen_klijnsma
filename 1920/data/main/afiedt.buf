@@ -1,0 +1,3 @@
+INSERT INTO my_employee
+VALUES(&id, INTICAP('&last_name'),  INITCAP('&first_name'),  LOWER('&userid'), &salary)
+/
