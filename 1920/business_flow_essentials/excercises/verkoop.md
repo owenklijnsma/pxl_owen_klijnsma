@@ -9,12 +9,11 @@ Handelskorting (0%)|0,00
 Netto|42,00
 Aangerekende kosten (0%)|0,00
 Factuurbedrag|42,00
-Financiële korting (0%)|0,00
+Financiële korting|0,00
 Maatstaf van heffing|42,00
 BTW (21%)|8,82
 Factuurbedrag (Incl. BTW)|50,82
 Factuurbedrag (Incl. Financiële korting)|50,82
-Totaal|50,82
 
 `Verkoopprijs van dit spel inclusief BTW is € 50,82.`
 
@@ -29,12 +28,11 @@ Handelskorting (0%)|0,00
 Netto|16,11
 Aangerekende kosten (0%)|0,00
 Factuurbedrag|16,11
-Financiële korting (0%)|0,00
+Financiële korting|0,00
 Maatstaf van heffing|16,11
 BTW (21%)|3,38
 Factuurbedrag (Incl. BTW)|19,49
 Factuurbedrag (Incl. Financiële korting)|19,49
-Totaal|19,49
 
 `Verkoopprijs van de cd exclusief BTW is € 16,11.`
 
@@ -49,12 +47,11 @@ Handelskorting (0%)|0,00
 Netto|1,82
 Aangerekende kosten (0%)|0,00
 Factuurbedrag|1,82
-Financiële korting (0%)|0,00
+Financiële korting|0,00
 Maatstaf van heffing|1,82
 BTW (21%)|0,38
 Factuurbedrag (Incl. BTW)|2,20
 Factuurbedrag (Incl. Financiële korting)|2,20
-Totaal|2,20
 
 `Verkoopprijs van een volkorenbrood exclusief BTW is € 1,82.`
 
@@ -72,12 +69,11 @@ Handelskorting (0%)|0,00|0,00|0,00
 Netto|1.500,00|2.100,00|2.950,00
 Aangerekende kosten (0%)|0,00|0,00|0,00
 Factuurbedrag|1.500,00|2.100,00|2.950,00
-Financiële korting (0%)|0,00|0,00|0,00
+Financiële korting|0,00|0,00|0,00
 Maatstaf van heffing|1.500,00|2.100,00|2.950,00
 BTW (6%)|90,00|126,00|177,00
 Factuurbedrag (Incl. BTW)|1.590,00|2.226,00|3.127,00
 Factuurbedrag (Incl. Financiële korting)|1.590,00|2.226,00|3.127,00
-Totaal|1.590,00|2.226,00|3.127,00
 
 `a) De landbouwer ontvangt € 90,00, de veehandelaar ontvangt € 126,00 en de slager ontvangt € 177,00 aan BTW.`  
 `b) Iedereen behalve de consument. De schuld is gelijk aan de BTW van hun verkoop.`  
@@ -97,12 +93,11 @@ Handelskorting (0%)|0,00|0,00|0,00
 Netto|1.100,00|1.300,00|1.600,00
 Aangerekende kosten (0%)|0,00|0,00|0,00
 Factuurbedrag|1.100,00|1.300,00|1.600,00
-Financiële korting (0%)|0,00|0,00|0,00
+Financiële korting|0,00|0,00|0,00
 Maatstaf van heffing|1.100,00|1.300,00|1.600,00
 BTW (21%)|231,00|273,00|336,00
 Factuurbedrag (Incl. BTW)|1.331,00|1.573,00|1.936,00
 Factuurbedrag (Incl. Financiële korting)|1.331,00|1.573,00|1.936,00
-Totaal|1.331,00|1.573,00|1.936,00
 
 `a) De PC-producent ontvangt € 231,00, de groothandel ontvangt € 273,00 en de computershop ontvangt € 336,00 aan BTW.`  
 `b) Iedereen behalve de consument. De schuld is gelijk aan de BTW van hun verkoop.`  
@@ -110,3 +105,51 @@ Totaal|1.331,00|1.573,00|1.936,00
 
 ---
 ## Oefening 6
+> Verkoop van goederen aan Snoopy voor 450 euro +21% BTW, betaalbaar binnen 30 dagen, verkoopkosten: 10 euro, handelskorting: 10%. Bereken de factuur.
+
+Type|Value (€)
+---|---:
+Bruto|450,00
+Handelskorting (10%)|45,00
+Netto|405,00
+Aangerekende kosten (0%)|0,00
+Factuurbedrag|405,00
+Financiële korting|-10,00
+Maatstaf van heffing|415,00
+BTW (21%)|87,15
+Factuurbedrag (Incl. BTW)|502,15
+Factuurbedrag (Incl. Financiële korting)|492,15
+
+---
+## Oefening 7
+> Wij leveren en factureren vandaag handelsgoederen voor 2.500 euro, betaalbaar na 30 dagen, 2% korting bij betaling binnen 5 dagen, 3% handelskorting, 21% BTW. Bereken de factuur.
+
+Type|Value (€)
+---|---:
+Bruto|2.500,00
+Handelskorting (3%)|75,00
+Netto|2.425,00
+Aangerekende kosten (0%)|0,00
+Factuurbedrag|2.425,00
+Financiële korting (2%)|48,50
+Maatstaf van heffing|2.376,50
+BTW (21%)|499,07
+Factuurbedrag (Incl. BTW)|2.875,57
+Factuurbedrag (Incl. Financiële korting)|2.827,07
+
+---
+## Oefening 8
+> Verkoop aan Nocitoy van goed A voor 3 000 euro + 6% BTW en van goed B voor 100 euro + 21% BTW. Verpakkingskosten: 8 euro, korting voor contant: 2%. Bereken de factuur.
+
+Type|Value A (€)|Value B (€)|Value Totaal (€)
+---|---:|---:|---:
+Bruto|3.000,00|100,00
+Handelskorting (0%)|0,00|0,00
+Netto|3.000,00|100,00
+Aangerekende kosten|||8,00
+Factuurbedrag|
+Financiële korting (2%)|
+Maatstaf van heffing|
+BTW (6%)|
+Factuurbedrag (Incl. BTW)|
+Factuurbedrag (Incl. Financiële korting)|
