@@ -8,14 +8,6 @@ FROM departments d
 FULL OUTER JOIN employees e ON d.department_id = e.department_id
 ;
 
-
-
-
-
-
-
-
-
 - examen opdracht 1 -
 SELECT UNIQUE(ac.sport_id), TO_CHAR(2020 - ac.endyear) AS "MINIMUM LEEFTIJD", TO_CHAR(ac.starttime, 'hh:mm') AS "BEGIN",
   TO_CHAR(ac.endtime, 'hh:mm') AS "EIND", TO_CHAR(ad.sport_date, 'fmDay') AS "WEEKDAG"
