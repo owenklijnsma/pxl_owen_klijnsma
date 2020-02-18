@@ -1,4 +1,4 @@
-//Sum A
+//Sum
 let min = 1;
 let max = 100;
 let sum = 0;

@@ -1,4 +1,4 @@
-//Chessboard A
+//Chessboard
 let size = 8;
 let rowNr = 0;
 
