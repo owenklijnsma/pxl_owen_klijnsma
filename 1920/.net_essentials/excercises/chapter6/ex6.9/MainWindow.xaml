@@ -1,0 +1,17 @@
+﻿<Window x:Class="ex6._9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ex6._9"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lblName" Content="Name:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblPassword" Content="Password:" HorizontalAlignment="Left" Margin="0,41,0,0" VerticalAlignment="Top"/>
+        <PasswordBox x:Name="pwdPassword" HorizontalAlignment="Left" Margin="67,49,0,0" VerticalAlignment="Top" Width="200" ToolTip="Enter your password."/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="26" Margin="67,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" ToolTip="Enter your name."/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="111,72,0,0" VerticalAlignment="Top" Width="76" ToolTip="Cancel and exit the program."/>
+        <Button x:Name="btnOK" Content="OK" HorizontalAlignment="Left" Margin="192,72,0,0" VerticalAlignment="Top" Width="75" ToolTip="Proceed with the login."/>
+    </Grid>
+</Window>
