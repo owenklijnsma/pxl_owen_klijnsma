@@ -5,6 +5,7 @@
 * SSH => Secure Shell protocol VERY GOOD
 * Out of band Management => communication that doesn't use bandwith
 * In band Management => communication that uses bandwith
+
 ---
 * POST (Power On Self Test) => small electric test to check if all components work (happens before boot)
 * ROM (Read Only Memory) => read only
@@ -17,6 +18,7 @@
     * Load OS (goes to RAM)
     * Search `startup-config` (in NVRAM)
     * Load `startup-config` (goes to RAM as `running-config`)
+
 ---
 * Cisco commands
     * Switch> `?`
@@ -43,5 +45,6 @@
     * S1(config-line)# `login`
     * S1(config-line)# `exit`
     * S1(config)# `service password-encryption`
+
 ---
 `break;`
