@@ -40,3 +40,12 @@ U = 52
 A = 4
 P = 4/52
 ```
+``get? Chance of 3 aces from the deck`
+> 4/52 * 3/51 * 2/50 = 1,81 %
+
+* Sum rule for disjunct events: P(A U B) = P(A) + P(B)
+* General sum rule: P(A U B) = P(A) + P(B) - P(A Ո B)
+* Complement rule: P(A<sup>C</sup>) = 1 - P(A)
+* Difference rule: P(A \ B) = P(A Ո B<sup>C</sup>)
+    * Alternative: P(A \ B) = P(A) - P(B) - P(A Ո B)
+
